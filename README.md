@@ -1,3 +1,11 @@
 # My_Project
-This is my deliverables.<br>
-I'm a member of graduate school of information science and engineering, Ritsumeikan university.
+立命館大学情報理工学研究科人間情報科学コース　音情報処理研究室
+内木正太
+
+作成したプログラムのポートフォリオです．
+・ANC
+  C言語による適応ノイズキャンセラのDSP用プログラムです．
+・HOA
+  Pythonによる高次アンビソニックスの計算機シミュレーションプログラムです．
+・LSTM
+  MATLABおよびPythonによる超短期記憶ネットワーク（Long-short Term Memory : LSTM）の学習プログラムです．
