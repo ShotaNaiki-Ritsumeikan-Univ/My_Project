@@ -1,9 +1,9 @@
 22.2マルチチャネル音響における高次アンビソニックスを用いた収録，および再生の計算機シミュレーションのプログラムです．<br>
-・HOA.py
-HOAにより，原音場の波面を再現するプログラム
-出力として所望音場,再現音場,再現誤差の画像+平均再現誤差(標準出力)
-下記の関数が必要
--function.py
--green_function.py
--my_function.py
--colormaps.py
+・HOA.py<br>
+HOAにより，原音場の波面を再現するプログラム<br>
+出力として所望音場,再現音場,再現誤差の画像+平均再現誤差(標準出力)<br>
+下記の関数が必要<br>
+-function.py<br>
+-green_function.py<br>
+-my_function.py<br>
+-colormaps.py<br>
