@@ -11,4 +11,4 @@ MATLABを用いた長短期記憶ネットワーク(Long-short Term Memory : LST
 --------------------------------------------------------------------------------------------------------------------
 使用OS : Linux
 バージョン : MATLAB 2022a
-ツールボックス : Audio Toolbox, Deep Learning Toolbox, 
+ツールボックス : Audio Toolbox, Deep Learning Toolbox, Parallel Computing Toolbox
