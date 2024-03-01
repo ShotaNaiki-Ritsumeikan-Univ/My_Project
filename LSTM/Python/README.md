@@ -12,3 +12,8 @@ PythonのPytorchおよびPytorch lightningを用いた長短期記憶ネット�
 ・main_lightning<br>
   LSTMの学習プログラムのPytorch Lightning版，複数のGPUでの並列学習に対応しています．<br>
   
+--------------------------------------------------------------------------------------------------------------------
+動作環境
+使用OS : Linux
+使用言語 : Python3
+使用ライブラリ :lightning, torch
